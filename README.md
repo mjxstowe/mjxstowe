@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm MJ Stowe</h1>
-<h5 align="center">PhD candidate</h5>
 <h3 align="center">Drugs, Policy, Rights, Research, Activism</h3>
-
+<h5 align="center">(PhD candidate)</h5>
 Drug-obsessed chemical alchemist turned behavioural epidemiologist, curious about all intersections of drugs, data and society.
 
 Currently a PhD candidate in the [Kirby Institute](https://www.kirbyinstitute.org.au/) at the University of New South Wales, Sydney, Australia. My research interests include applications of community-derived biomedical and epidemiological data in the public and population health fields, focusing on social and health components of systems that affect diverse populations of people who use drugs. 
