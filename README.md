@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm MJ Stowe</h1>
+<!--<h1 align="center">Hi 👋, I'm MJ Stowe</h1>-->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mjxstowe">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+MJ Stowe&center=true&size=30">
+  </a>
+</h1>
+
 <h3 align="center">Drugs, Policy, Rights, Research, Activism</h3>
 
 Drug-obsessed chemical alchemist turned behavioural epidemiologist, curious about all intersections of drugs, data and society.
@@ -7,6 +15,17 @@ Currently a PhD candidate in the [Kirby Institute](https://www.kirbyinstitute.or
 
 I work on projects that focus on the meaningful inclusion of people who use drugs at all aspects of the research process - from design to implementation, evaluation and dissemination. Together, my varied interests coalesce around reducing drug-related social and health harms imposed on people who use drugs and improving the equitable involvement of people who use drugs in research. Learn more about my research interests in [publications](/publication).
 
+
+<h2>What I do</h2>
+
+- I have a background in Bayesian statistics and causal inference.
+- I currently wear a few hats (and continue to get better at):
+  - Statistician
+  - Build web applications with Django
+  - (Newer) work with data pipelines
+
+<h2>What I believe in</h2>
+I do not believe in gatekeeping information. I love contributing to open source (when I can). 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,17 +39,8 @@ Email: **mjstowe@kirby.unsw.edu.au**
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 </p>
-<!--
-**mx-jx/mx-jx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
