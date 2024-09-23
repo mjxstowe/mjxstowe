@@ -1,17 +1,30 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mjstowe">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=D1BFDF&vCenter=true&width=435&lines=Hello!+%F0%9F%91%8B;I+am+MJ+Stowe)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=D1BFDF&vCenter=true&width=435&lines=Hello!+%F0%9F%91%8B;I+am+MJ+Stowe)](https://git.io/typing-svg)-->
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+MJ+Stowe&center=true&size=30">
+  </a>
+</h1>
 
 <h3 align="center">Drugs, Policy, Rights, Research, Activism</h3>
+
 
 Drug-obsessed chemical alchemist turned behavioural epidemiologist, curious about all intersections of drugs, data and society.
 
 Currently a PhD candidate in the [Kirby Institute](https://www.kirbyinstitute.org.au/) at the University of New South Wales, Sydney, Australia. My research interests include applications of community-derived biomedical and epidemiological data in the public and population health fields, focusing on social and health components of systems that affect diverse populations of people who use drugs. 
 
-I work on projects that focus on the meaningful inclusion of people who use drugs at all aspects of the research process - from design to implementation, evaluation and dissemination. Together, my varied interests coalesce around reducing drug-related social and health harms imposed on people who use drugs and improving the equitable involvement of people who use drugs in research. Learn more about my research interests in [publications](/publication).
+I work on projects that focus on the meaningful inclusion of people who use drugs at all aspects of the research process - from design to implementation, evaluation and dissemination. Together, my varied interests coalesce around reducing drug-related social and health harms imposed on people who use drugs and improving the equitable involvement of people who use drugs in research. Learn more about my research interests in [publications](https://scholar.google.com/citations?user=CcMtyZgAAAAJ&hl=en).
 
-<h2>What I believe in</h2>
-I do not believe in gatekeeping information. I love contributing to open source (when I can). 
+<h2>What I do</h2>
+
+- I have a background in chemistry and epidemiology.
+- I currently wear a few hats (and continue to get better at):
+  - Behavioural epidemiologist
+  - Health Education Officer (HEO) at Sydney's Medically Supervised Injection Centre (MSIC)
+  - (Newer) work with linked datasets looking at factors associated with various aspects of infectious diseases among populations of people who inject drugs
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
