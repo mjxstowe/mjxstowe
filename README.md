@@ -1,5 +1,4 @@
-<!--<h1 align="center">Hi 👋, I'm MJ Stowe</h1>-->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mjxstowe">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mjstowe">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -14,15 +13,6 @@ Drug-obsessed chemical alchemist turned behavioural epidemiologist, curious abou
 Currently a PhD candidate in the [Kirby Institute](https://www.kirbyinstitute.org.au/) at the University of New South Wales, Sydney, Australia. My research interests include applications of community-derived biomedical and epidemiological data in the public and population health fields, focusing on social and health components of systems that affect diverse populations of people who use drugs. 
 
 I work on projects that focus on the meaningful inclusion of people who use drugs at all aspects of the research process - from design to implementation, evaluation and dissemination. Together, my varied interests coalesce around reducing drug-related social and health harms imposed on people who use drugs and improving the equitable involvement of people who use drugs in research. Learn more about my research interests in [publications](/publication).
-
-
-<h2>What I do</h2>
-
-- I have a background in Bayesian statistics and causal inference.
-- I currently wear a few hats (and continue to get better at):
-  - Statistician
-  - Build web applications with Django
-  - (Newer) work with data pipelines
 
 <h2>What I believe in</h2>
 I do not believe in gatekeeping information. I love contributing to open source (when I can). 
@@ -39,6 +29,10 @@ Email: **mjstowe@kirby.unsw.edu.au**
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 </p>
+
+
+
+
 
 
 
